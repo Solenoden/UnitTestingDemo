@@ -1,7 +1,7 @@
 import {DuckSpecies} from "../enums/DuckSpecies";
 
 export class Duck {
-    Duck(name: string, size: number, species: DuckSpecies) {
+    constructor(name: string, size: number, species: DuckSpecies) {
         this.name = name;
         this.size = size;
         this.species = species;
