@@ -1,0 +1,9 @@
+{
+  "name": "UnitTestingDemo",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1"
+  }
+}
